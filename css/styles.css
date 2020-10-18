@@ -9,7 +9,7 @@
     --bcg-team: #F5F4FA
     }
 
-              /* site-nav */
+/* site-nav */
 body {
     font-family: Roboto, sans-serif;
 }
@@ -50,7 +50,7 @@ li{
 
 }
 
- .site-link.current{
+.site-link.current{
     color: var(--blue);
     text-decoration: none;
 } 
@@ -164,7 +164,7 @@ main{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.18
-    /* text-align: center; */
+/* text-align: center; */
     letter-spacing: 0.03em;
 }
     
@@ -256,7 +256,6 @@ letter-spacing: 0.03em;
     line-height: 1.71
     letter-spacing: 0.03em;
     text-decoration: none;
-
 }
 
 .footer-info:hover,
