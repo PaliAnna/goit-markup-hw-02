@@ -246,6 +246,7 @@ letter-spacing: 0.03em;
 .f-address:hover,
 .f-address:focus{
     color: var(--blue);
+    text-decoration: none;
 }
 
 .footer-info {
